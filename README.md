@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**voyxge7/voyxge7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Christian, a Analytics Engineer based in Texas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly work on turning logistics operations data into production pipelines, data models, and decision tools. 
+
+On the side, I also build full-stack web applications — working with React, TypeScript, Next.js, Tailwind CSS, and MongoDB on the backend. 
+
+This profile is where I share my personal data engineering projects, full-stack experiments, and things I'm currently building.
+
+
+### Tools & Tech
+
+* **Data Engineering & Analytics:** Python, SQL, PySpark, Databricks, Delta Lake, BigQuery
+* **Frontend & Web:** React, TypeScript, Next.js, Tailwind CSS
+* **Databases & AI:** MongoDB, Google Gemini API, REST APIs, SQL Server
+
+
+### A Bit About Me
+
+* Coffee and energy drink type of person
+* Into soccer, anime, tech
+* I like to build things that are simple, useful, and easy to understand
