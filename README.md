@@ -7,9 +7,6 @@ I mostly work on turning logistics operations data into production pipelines, da
 
 On the side, I also build full-stack web applications — working with React, TypeScript, Next.js, Tailwind CSS, and MongoDB on the backend. 
 
-This profile is where I share my personal data engineering projects, full-stack experiments, and things I'm currently building.
-
-
 ### Tools & Tech
 
 * **Data Engineering & Analytics:** Python, SQL, PySpark, Databricks, Delta Lake, BigQuery
