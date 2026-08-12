@@ -22,3 +22,8 @@ This profile is where I share my personal data engineering projects, full-stack 
 * Coffee and energy drink type of person
 * Into soccer, anime, tech
 * I like to build things that are simple, useful, and easy to understand
+
+
+<a href="https://docs.google.com/document/d/1zFQ5gdinKs2MZmnzwJqTJPJNLfx09Yg4YuzHzxQd6So/edit?usp=sharing">target="_blank">
+  📄 <b>View My Resume</b>
+</a>
