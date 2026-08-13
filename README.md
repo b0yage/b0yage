@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey!👋
 
 
 I'm Christian, a Analytics Engineer based in Texas
