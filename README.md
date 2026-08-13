@@ -17,8 +17,8 @@ On the side, I also build full-stack web applications — working with React, Ty
 ### A Bit About Me
 
 * Coffee and energy drink type of person
-* Into soccer, anime, tech
-* I like to build things that are simple, useful, and easy to understand
+* Into soccer, anime, tech, gaming
+* I like to build things that make peoples life simpler
 
 
 <a href="https://docs.google.com/document/d/1zFQ5gdinKs2MZmnzwJqTJPJNLfx09Yg4YuzHzxQd6So/edit?usp=sharing" target="_blank">
